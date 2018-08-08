@@ -1,4 +1,4 @@
-package org.jiuzhou.policebd_inf.utils.ftppool.client;
+package org.jiuzhou.utils.ftppool.client;
 
 import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;

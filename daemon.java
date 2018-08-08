@@ -1,4 +1,3 @@
-package org.jiuzhou.policebd_zllcbk.ftp;
 
 import java.io.File;
 import java.io.InputStream;

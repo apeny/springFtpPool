@@ -1,4 +1,4 @@
-package org.jiuzhou.policebd_inf.utils.ftppool.core;
+package org.jiuzhou.utils.ftppool.core;
 
 import java.io.IOException;
 import java.io.InputStream;

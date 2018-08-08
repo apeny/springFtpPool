@@ -1,4 +1,4 @@
-package org.jiuzhou.policebd_inf.utils.ftppool.config;
+package org.jiuzhou.utils.ftppool.config;
 
 /**
  * FTP属性相关的配置

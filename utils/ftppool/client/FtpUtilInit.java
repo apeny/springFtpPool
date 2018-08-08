@@ -1,6 +1,6 @@
-package org.jiuzhou.policebd_inf.utils.ftppool.client;
+package org.jiuzhou.utils.ftppool.client;
 
-import org.jiuzhou.policebd_inf.utils.ftppool.core.FTPClientPool;
+import org.jiuzhou.utils.ftppool.core.FTPClientPool;
 
 /****
  * ftp pool 初始化函数 在resouces中添加 ftpPoolConfig.properties 线程池调用
